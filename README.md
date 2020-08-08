@@ -1,6 +1,6 @@
 ### Hi there, I'm Otavio!
 
-## I'm a Junior programmer and student!
+### I'm a Junior programmer and student!
 - 🔭 I’m currently working at [Sinqia][sinqia]!
 - 🌱 I’m currently learning React Native!
 - 🥅 2020 Goals: Learn more about TypeScript and React Native
@@ -14,6 +14,7 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
+
 ---
 
 ### Languages and Tools:
@@ -33,8 +34,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
 
-<br />
----
 <br />
 
 <img align="center" alt="HunnTeRUS's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HunnTeRUS&show_icons=true&hide_border=true" />

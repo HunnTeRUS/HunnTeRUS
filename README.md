@@ -2,7 +2,7 @@
 
 ## I'm a Junior programmer and student!
 - 🔭 I’m currently working at [Sinqia][sinqia]!
-- 🌱 I’m currently learning React Native!
+- 🌱 I’m currently learning React Native and NodeJS!
 - 🥅 2020 Goals: Learn more about TypeScript and React Native
 - ⚡  Fun fact: I love to play games!
 

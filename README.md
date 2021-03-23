@@ -1,9 +1,9 @@
 ### Hi there, I'm Otavio! 👋
 
 ## I'm a Junior programmer and student!
-- 🔭 I’m currently working at [Sinqia][sinqia]!
-- 🌱 I’m currently learning React Native and NodeJS!
-- 🥅 2021 Goals: Learn more about React, React Native and Amazon Web Services!
+- 🔭 I’m currently working at [Itaú Unibanco][https://www.itau.com.br/]!
+- 🌱 I’m currently learning Kotlin and Amazon Web Services!
+- 🥅 2021 Goals: Learn more about Amazon Web Services, Kotlin and MongoDB!
 - ⚡  Fun fact: I love to play games!
 
 ### Connect with me:

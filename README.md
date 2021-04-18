@@ -2,8 +2,8 @@
 
 ## I'm a Junior programmer and student!
 - 🔭 I’m currently working at [Itaú Unibanco][itau]!
-- 🌱 I’m currently learning Kotlin, GoLang and Amazon Web Services!
-- 🥅 2021 Goals: Learn more about Amazon Web Services, Kotlin and MongoDB!
+- 🌱 I’m currently learning Kotlin and GoLang!
+- 🥅 2021 Goals: Learn more about GoLang and Amazon Web Services!
 - ⚡  Fun fact: I love to play games!
 
 ### Connect with me:

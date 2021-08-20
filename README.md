@@ -2,7 +2,7 @@
 
 ## I'm a Junior programmer and student!
 - 🔭 I’m currently working at [Itaú Unibanco][itau]!
-- 🌱 I’m currently learning Kotlin and GoLang!
+- 🌱 I’m currently learning GoLang!
 - 🥅 2021 Goals: Learn more about GoLang and Amazon Web Services!
 - ⚡  Fun fact: I love to play games!
 

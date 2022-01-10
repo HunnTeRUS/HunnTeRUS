@@ -1,49 +1,36 @@
 ### Hi there, I'm Otavio! 👋
 
+- 🎓 Bachelor's Degree in Computer Science
 - 🔭 I’m currently working at [Itaú Unibanco][itau]!
 - 🌱 I’m currently learning GoLang!
-- 🥅 2021 Goals: Learn more about GoLang and Amazon Web Services!
-- ⚡  Fun fact: I love to play games!
+- 🥅 2022 Goals: Learn more about GoLang and Amazon Web Services!
+- 📓 I'm current teaching GoLang on Youtube at this link: [🎥 HunCoding][HunCoding]
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://emojis.slackmojis.com/emojis/images/1487135004/1757/youtube.png?1487135004" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="kotlin" width="26px" src="https://emojis.slackmojis.com/emojis/images/1626243171/47442/kotlin.png?1626243171" />
+<img align="left" alt="aws" width="26px" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" />
+<img align="left" alt="nodejs" width="26px" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" />
+<img align="left" alt="python" width="26px" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" />
+<img align="left" alt="Nvim" width="26px" src="https://emojis.slackmojis.com/emojis/images/1585914829/8460/nvim.png?1585914829" />
+<img align="left" alt="GoLang" width="26px" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/java.svg" />
-<img align="left" alt="Spring Framework" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/spring.svg" />
-<img align="left" alt="Intelliji" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/intellijidea.svg" />
-<img align="left" alt="Ionic 3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/ionic.svg" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/typescript.svg" />
+<img align="left" alt="spring" width="26px" src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" />
 
 <br />
 <br />
-
-
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HunnTeRUS&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/OtavioCelestin1
 [youtube]: https://www.youtube.com/channel/UC9Xw6TCEu7ue2Dz8th0dGUg?view_as=subscriber
 [instagram]: https://www.instagram.com/otavio_sntos/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/ot%C3%A1vio-celestino-dos-santos-20059b164/
 [itau]: https://www.itau.com.br/
+[HunCoding]: https://www.youtube.com/channel/UCT5d7jUni66Oii3jNRPPOfg

@@ -8,9 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://emojis.slackmojis.com/emojis/images/1487135004/1757/youtube.png?1487135004" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://emojis.slackmojis.com/emojis/images/1487135004/1757/youtube.png?1487135004" />][HunCoding]
+[<img align="left" alt="LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram]
+[<img align="left" alt="HunCoding" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306116/626/github_octocat.png?1467306116" />][instagram]
 
 <br />
 
@@ -28,8 +29,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/OtavioCelestin1
-[youtube]: https://www.youtube.com/channel/UC9Xw6TCEu7ue2Dz8th0dGUg?view_as=subscriber
 [instagram]: https://www.instagram.com/otavio_sntos/?hl=pt-br
 [linkedin]: https://www.linkedin.com/in/ot%C3%A1vio-celestino-dos-santos-20059b164/
 [itau]: https://www.itau.com.br/

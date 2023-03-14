@@ -3,7 +3,7 @@
 - 🎓 Bachelor's Degree in Computer Science
 - 🔭 I’m currently working at [Itaú Unibanco][itau]!
 - 🌱 I’m currently learning GoLang!
-- 🥅 2022 Goals: Learn more about GoLang and Amazon Web Services!
+- 🥅 2023 Goals: Learn more about GoLang, Docker and Amazon Web Services!
 - 📓 I'm current teaching GoLang on Youtube at this link: [🎥 HunCoding][HunCoding]
 
 ### Connect with me:

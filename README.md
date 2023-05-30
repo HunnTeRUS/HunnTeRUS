@@ -14,6 +14,12 @@
 [<img align="left" alt="HunCoding" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306116/626/github_octocat.png?1467306116" />][GithubHunCoding]
 
 <br />
+<br />
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="kotlin" width="26px" src="https://emojis.slackmojis.com/emojis/images/1626243171/47442/kotlin.png?1626243171" />

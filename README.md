@@ -16,11 +16,6 @@
 <br />
 <br />
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
-<br />
-
 ### Languages and Tools:
 <img align="left" alt="kotlin" width="26px" src="https://emojis.slackmojis.com/emojis/images/1626243171/47442/kotlin.png?1626243171" />
 <img align="left" alt="aws" width="26px" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" />

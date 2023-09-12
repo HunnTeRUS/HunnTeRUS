@@ -1,4 +1,4 @@
-## Hi there, I'm Otavio! 👋
+## Hi there, I'm Otavio! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 ```go
 package OtavioSantos

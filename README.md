@@ -1,36 +1,47 @@
-### Hi there, I'm Otavio! 👋
+## Hi there, I'm Otavio! 👋
 
-- 🎓 Bachelor's Degree in Computer Science
-- 🔭 I’m currently working at [Itaú Unibanco][itau]!
-- 🌱 I’m currently learning GoLang!
-- 🥅 2023 Goals: Learn more about GoLang, Docker and Amazon Web Services!
-- 📓 I'm current teaching GoLang on Youtube at this link: [🎥 HunCoding][HunCoding]
+```go
+package OtavioSantos
 
-### Connect with me:
-[<img align="left" alt="YouTube" width="22px" src="https://emojis.slackmojis.com/emojis/images/1487135004/1757/youtube.png?1487135004" />][HunCoding]
-[<img align="left" alt="LinkedIn" width="22px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306728/632/instagram.png?1467306728" />][instagram]
-[<img align="left" alt="HunCoding" width="22px" src="https://emojis.slackmojis.com/emojis/images/1467306116/626/github_octocat.png?1467306116" />][GithubHunCoding]
+func GetCurrentWorkPosition() map[string]string {
+	return map[string]string{
+		"company":  "Itaú Unibanco",
+		"position": "Backend Software Engineer",
+	}
+}
 
-<br />
-<br />
+func GetYoutubeChannel() string {
+	return "https://www.youtube.com/@huncoding"
+}
 
-### Languages and Tools:
-<img align="left" alt="kotlin" width="26px" src="https://emojis.slackmojis.com/emojis/images/1626243171/47442/kotlin.png?1626243171" />
-<img align="left" alt="aws" width="26px" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" />
-<img align="left" alt="nodejs" width="26px" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" />
-<img align="left" alt="python" width="26px" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" />
-<img align="left" alt="Nvim" width="26px" src="https://emojis.slackmojis.com/emojis/images/1585914829/8460/nvim.png?1585914829" />
-<img align="left" alt="GoLang" width="26px" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="spring" width="26px" src="https://emojis.slackmojis.com/emojis/images/1536564975/4642/spring.png?1536564975" />
+func GetDegree() string {
+	return "Bachelors Degree in Computer Science / 2021"
+}
 
-<br />
-<br />
+func GetDailyKnowledge() []string {
+	return []string{
+		"Java",
+		"GoLang",
+		"Python",
+		"AWS - Amazon Web Services",
+		"Kotlin",
+		"Kafka",
+		"Terraform",
+		"MongoDB",
+		"AuroraDB",
+		"Docker",
+	}
+}
 
-[instagram]: https://www.instagram.com/otavio_sntos/?hl=pt-br
-[linkedin]: https://www.linkedin.com/in/ot%C3%A1vio-celestino-dos-santos-20059b164/
-[itau]: https://www.itau.com.br/
-[HunCoding]: https://www.youtube.com/channel/UCT5d7jUni66Oii3jNRPPOfg
-[GithubHunCoding]:https://github.com/HunCoding
+func GetFutureGoal() string {
+	return "Contribute to open source, work with international projects and help a lot with knowledge"
+}
+```
+
+[<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />][Solutions]
+[<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />][Developer]
+[<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
+
+[Solutions]: https://www.credly.com/badges/bf3363fa-3eec-4e2e-8ddb-fb5f070e15f7/public_url
+[Developer]: https://www.credly.com/badges/bd92a336-5a83-4e75-981a-07c61bfca778/public_url
+[Practitioner]: https://www.credly.com/badges/204a9cce-0268-4e2b-9778-14b0d9a2442a/public_url

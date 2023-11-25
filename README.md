@@ -39,6 +39,7 @@ func GetFutureGoal() string {
 ```
 
 [<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" />][Terraform]
+[<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/220x220/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />][SysOps]
 [<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />][Solutions]
 [<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />][Developer]
 [<img align="left" alt="HunCoding" width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />][Practitioner]
@@ -47,3 +48,4 @@ func GetFutureGoal() string {
 [Solutions]: https://www.credly.com/badges/bf3363fa-3eec-4e2e-8ddb-fb5f070e15f7/public_url
 [Developer]: https://www.credly.com/badges/bd92a336-5a83-4e75-981a-07c61bfca778/public_url
 [Practitioner]: https://www.credly.com/badges/204a9cce-0268-4e2b-9778-14b0d9a2442a/public_url
+[SysOps]: https://www.credly.com/badges/420577dd-8cb1-4806-baff-abce3ba4b945/public_url

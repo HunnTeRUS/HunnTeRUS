@@ -5,7 +5,7 @@ package OtavioSantos
 
 func GetCurrentWorkPosition() map[string]string {
 	return map[string]string{
-		"company":  "Itaú Unibanco",
+		"company":  "",
 		"position": "Backend Software Engineer",
 	}
 }

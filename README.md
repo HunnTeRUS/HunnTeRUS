@@ -37,7 +37,7 @@ func GetFutureGoal() string {
 	return "Contribute to open source, work with international projects and help a lot with knowledge"
 }
 ```
-[<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/340x340/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" />][Terraform]
+[<img align="left" alt="HunCoding" width="140px" src="https://github.com/user-attachments/assets/48fe814b-0a54-489a-a84b-43a81f8e2ec1" />][Terraform]
 [<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/220x220/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" />][DevOps]
 [<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/220x220/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" />][SysOps]
 [<img align="left" alt="HunCoding" width="140px" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />][Solutions]
